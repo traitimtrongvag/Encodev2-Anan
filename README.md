@@ -59,6 +59,10 @@ Linux
 ```bash
 git clone https://github.com/anan1412kdz/Encode-vip-Anan && cd Encode-vip-Anan && sudo apt update && sudo apt install python3 git unzip && python3 -m pip install requests pystyle rich && unzip encodev2.zip && cd encodev2 && python3 Main.py
 ```
+# Cách sử dụng 
+
+Cách sử dụng: Có hai thư mục là FileCanMaHoa và FileDaMaHoa. Hãy đưa tệp cần mã hóa vào thư mục FileCanMaHoa, sau đó tệp đã được mã hóa sẽ xuất hiện trong thư mục FileDaMaHoa.
+
 # Picture
 ![Screenshot](https://github.com/anan1412kdz/Pic/blob/main/hinhanh.jpg?raw=true)
 # Kết Luận
