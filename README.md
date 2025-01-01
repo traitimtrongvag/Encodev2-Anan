@@ -58,7 +58,7 @@ termux
 Linux
 ```bash
 git clone https://github.com/anan1412kdz/Encode-vip-Anan && cd Encode-vip-Anan &&
-sudo apt update && sudo apt install python3 python3-pip git && pip install requests pystyle rich && python encodev2.py
+sudo apt update && sudo apt install python3 python3-pip git && pip install requests pystyle rich && pkg install zip && python encodev2.py
 ```
 # Picture
 ![Screenshot](https://github.com/anan1412kdz/Pic/blob/main/hinhanh.jpg?raw=true)
