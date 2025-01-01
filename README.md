@@ -50,10 +50,14 @@ Encode không đảm bảo bảo mật tuyệt đối; nó chỉ làm tăng đ�
 Kết hợp encode với các biện pháp bảo mật khác như kiểm tra quyền truy cập, mã hóa dữ liệu, và bảo vệ máy chủ.
 
 Đảm bảo lưu trữ mã nguồn gốc một cách an toàn, vì mã đã encode rất khó bảo trì và sửa lỗi.
-# Setup
+# Setup (termux)
  ```bash
-   sudo install
+   pkg update && pkg install python git && pip install requests pystyle nguyenthanhngoc
 
+```
+Linux
+```bash
+sudo apt update && sudo apt install python3 python3-pip git && pip install requests pystyle nguyenthanhngoc
 ```
 # Kết Luận
 
