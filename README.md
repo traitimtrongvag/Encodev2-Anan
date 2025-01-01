@@ -51,7 +51,7 @@ Kết hợp encode với các biện pháp bảo mật khác như kiểm tra quy
 
 Đảm bảo lưu trữ mã nguồn gốc một cách an toàn, vì mã đã encode rất khó bảo trì và sửa lỗi.
 # Setup
-```bash
+ ```bash
    sudo install
 
 
