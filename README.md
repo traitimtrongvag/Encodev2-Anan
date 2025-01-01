@@ -60,6 +60,8 @@ Linux
 ```bash
 sudo apt update && sudo apt install python3 python3-pip git && pip install requests pystyle nguyenthanhngoc
 ```
+# Picture
+![Screenshot](https://github.com/anan1412kdz/Pic/blob/main/hinhanh.jpg?raw=true)
 # Kết Luận
 
 Encode mã nguồn là một bước quan trọng để bảo vệ tài sản trí tuệ và tăng cường an ninh cho các dự án phần mềm. Tuy nhiên, nó cần được triển khai cùng với các biện pháp bảo mật khác để đảm bảo hiệu quả tối ưu. Việc áp dụng encode không chỉ giúp bảo vệ quyền sở hữu trí tuệ mà còn xây dựng niềm tin với khách hàng và đối tác.
