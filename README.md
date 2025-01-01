@@ -53,7 +53,7 @@ Kết hợp encode với các biện pháp bảo mật khác như kiểm tra quy
 # Setup 
 termux
  ```bash
-  git clone https://github.com/anan1412kdz/Encode-vip-Anan && cd Encode-vip-Anan && pkg update && pkg install python git && pip install requests pystyle rich && cd encodev2 && python Main.py
+  git clone https://github.com/anan1412kdz/Encode-vip-Anan && cd Encode-vip-Anan && pkg update && pkg install python git && pip install requests pystyle rich && pkg install unzip && unzip encodev2.zip && cd encodev2 && python Main.py
 ```
 Linux
 ```bash
