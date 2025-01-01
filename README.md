@@ -50,6 +50,9 @@ Encode không đảm bảo bảo mật tuyệt đối; nó chỉ làm tăng đ�
 Kết hợp encode với các biện pháp bảo mật khác như kiểm tra quyền truy cập, mã hóa dữ liệu, và bảo vệ máy chủ.
 
 Đảm bảo lưu trữ mã nguồn gốc một cách an toàn, vì mã đã encode rất khó bảo trì và sửa lỗi.
+# Setup
+```bash
+   sudo install
 
 
 # Kết Luận
