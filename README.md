@@ -53,12 +53,11 @@ Kết hợp encode với các biện pháp bảo mật khác như kiểm tra quy
 # Setup 
 termux
  ```bash
-   pkg update && pkg install python git && pip install requests pystyle nguyenthanhngoc
-
+   pkg update && pkg install python git && pip install requests pystyle rich
 ```
 Linux
 ```bash
-sudo apt update && sudo apt install python3 python3-pip git && pip install requests pystyle nguyenthanhngoc
+sudo apt update && sudo apt install python3 python3-pip git && pip install requests pystyle rich
 ```
 # Picture
 ![Screenshot](https://github.com/anan1412kdz/Pic/blob/main/hinhanh.jpg?raw=true)
