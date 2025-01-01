@@ -53,10 +53,11 @@ Kết hợp encode với các biện pháp bảo mật khác như kiểm tra quy
 # Setup 
 termux
  ```bash
-   pkg update && pkg install python git && pip install requests pystyle rich
+  git clone https://github.com/anan1412kdz/Encode-vip-Anan && cd Encode-vip-Anan && pkg update && pkg install python git && pip install requests pystyle rich
 ```
 Linux
 ```bash
+git clone https://github.com/anan1412kdz/Encode-vip-Anan && cd Encode-vip-Anan &&
 sudo apt update && sudo apt install python3 python3-pip git && pip install requests pystyle rich
 ```
 # Picture
