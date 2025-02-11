@@ -1,6 +1,4 @@
-# Giới thiệu Chương Trình Encode Bảo Vệ Mã Nguồn
 
-Trong thời đại công nghệ hiện nay, mã nguồn của một ứng dụng hay hệ thống phần mềm được xem là tài sản quan trọng nhất đối với các doanh nghiệp và lập trình viên. Tuy nhiên, nguy cơ mã nguồn bị đánh cắp hoặc lạm dụng là rất cao nếu không có các biện pháp bảo vệ phù hợp. Để giải quyết vấn đề này, chương trình encode mã nguồn đã ra đời như một giải pháp hiệu quả giúp bảo vệ tài sản trí tuệ.
 
 # Encode Mã Nguồn Là Gì?
 
