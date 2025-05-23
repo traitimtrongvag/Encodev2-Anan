@@ -1,63 +1,120 @@
+### Data Encryption V2
+
+### Developed by: An An
+
+### Overview
+
+Data Encryption V2 is a simple yet powerful Python tool that compiles Python source files into bytecode, marshals them, and encodes them using Base85 to obfuscate the original code. The resulting script can be executed directly while keeping the source code hidden from plain view.
+
+This project also features a visually appealing terminal interface using pystyle and rich.
 
 
-# Encode Mã Nguồn Là Gì?
+---
 
-Encode mã nguồn là quá trình chuyển đổi mã nguồn từ dạng dễ đọc (plaintext) sang một định dạng khó hiểu hoặc không thể đọc được trực tiếp. Quá trình này thường được thực hiện bằng cách sử dụng các thuật toán mã hóa hoặc kỹ thuật obfuscation (làm rối mã).
+### Features
 
-Khi mã nguồn được encode, kẻ trộm sẽ gặp khó khăn trong việc hiểu hoặc tái sử dụng mã, từ đó giảm thiểu nguy cơ đánh cắp hoặc sao chép trái phép.
+Source Code Obfuscation
+Convert Python scripts into a single-line executable form, making it hard to reverse-engineer.
 
-# Mục Đích Của Encode Mã Nguồn
+Base85 Encoding
+Uses base64.a85encode for efficient and compact encoding.
 
-1. Bảo vệ tài sản trí tuệ: Giúp mã nguồn không bị sao chép hoặc tái sử dụng bất hợp pháp.
+Visual UI in Terminal
+Stylized terminal output using pystyle and rich.console.
 
-
-2. Ngăn chặn phân tích ngược: Khó khăn hóa việc reverse engineering từ mã nguồn đã được triển khai.
-
-
-3. Tăng cường bảo mật: Giảm thiểu nguy cơ bị khai thác từ các lỗ hổng bảo mật trong mã nguồn.
-
-
-4. Bảo vệ dữ liệu nhạy cảm: Đảm bảo thông tin quan trọng (API keys, thông tin xác thực, v.v.) không bị lộ qua mã nguồn.
+Multi-Platform Support
+Compatible with Windows, macOS, and Linux.
 
 
 
-Ứng Dụng Thực Tiễn
+---
 
-Trong các dự án phần mềm thương mại: Encode mã nguồn trước khi phân phối để bảo vệ công nghệ độc quyền.
+### How It Works
 
-Trong hệ thống web: Encode mã JavaScript hoặc mã phía máy chủ trước khi triển khai.
-
-Trong ứng dụng di động: Sử dụng kỹ thuật obfuscation để bảo vệ mã nguồn khỏi việc bị dịch ngược.
+1. Reads a Python source file.
 
 
-Công Cụ Encode Thông Dụng
-
-PHP Encoder: ionCube, Zend Guard.
-
-JavaScript Obfuscator: UglifyJS, Terser.
-
-Golang: Sử dụng gói garble để làm rối mã.
-
-Python: PyArmor, Cython.
+2. Compiles it into bytecode.
 
 
-Lưu Ý Khi Encode Mã Nguồn
+3. Marshals the bytecode.
 
-Encode không đảm bảo bảo mật tuyệt đối; nó chỉ làm tăng độ khó cho kẻ tấn công.
 
-Kết hợp encode với các biện pháp bảo mật khác như kiểm tra quyền truy cập, mã hóa dữ liệu, và bảo vệ máy chủ.
+4. Encodes it with Base85.
 
-Đảm bảo lưu trữ mã nguồn gốc một cách an toàn, vì mã đã encode rất khó bảo trì và sửa lỗi.
 
-# Cách sử dụng 
+5. Wraps it into an exec() statement.
 
-Cách sử dụng: Có hai thư mục là FileCanMaHoa và FileDaMaHoa. Hãy đưa tệp cần mã hóa vào thư mục FileCanMaHoa, sau đó tệp đã được mã hóa sẽ xuất hiện trong thư mục FileDaMaHoa.
 
-# Picture
-![Screenshot](https://github.com/anan1412kdz/Pic/blob/main/hinhanh.jpg?raw=true)
-# Kết Luận
+6. Saves the encoded version to a new file.
 
-Encode mã nguồn là một bước quan trọng để bảo vệ tài sản trí tuệ và tăng cường an ninh cho các dự án phần mềm. Tuy nhiên, nó cần được triển khai cùng với các biện pháp bảo mật khác để đảm bảo hiệu quả tối ưu. Việc áp dụng encode không chỉ giúp bảo vệ quyền sở hữu trí tuệ mà còn xây dựng niềm tin với khách hàng và đối tác.
 
-Nếu bạn đang tìm kiếm một giải pháp bảo mật mạnh mẽ cho dự án của mình, hãy cân nhắc sử dụng chương trình encode mã nguồn ngay hôm nay!
+
+
+---
+
+### Directory Structure
+
+.
+├── FileCanMaHoa/      # Source files to be encoded
+├── FileDaMaHoa/       # Encoded output files
+├── encrypt.py         # Main encryption script
+└── README.md          # Project documentation
+
+
+---
+
+### Requirements
+
+Install the dependencies using pip:
+```bash
+pip install pystyle rich
+```
+
+---
+
+Usage
+
+1. Place the Python file you want to encode into the FileCanMaHoa directory.
+
+
+2. Run the script:
+
+
+
+python encrypt.py
+
+3. Enter the name of the file when prompted (e.g., myscript.py).
+
+
+4. The encoded file will be saved in the FileDaMaHoa directory with the prefix enc_.
+
+
+
+
+---
+
+Example
+
+Input: myscript.py
+Output: FileDaMaHoa/enc_myscript.py (contains obfuscated exec(...) code)
+
+
+---
+
+Disclaimer
+
+This tool is intended for educational purposes and protecting your own code. Do not use it to hide malicious content or for unauthorized obfuscation.
+
+
+---
+
+License
+
+This project is open-source and free to use under the MIT License.
+
+
+---
+
+Let me know if you'd like a Vietnamese version or want this turned into an actual GitHub repo for you.
 
