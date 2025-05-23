@@ -81,9 +81,9 @@ Usage
 2. Run the script:
 
 
-
+```bash
 python encrypt.py
-
+```
 3. Enter the name of the file when prompted (e.g., myscript.py).
 
 
@@ -94,7 +94,7 @@ python encrypt.py
 
 ---
 
-Example
+### Example
 
 Input: myscript.py
 Output: FileDaMaHoa/enc_myscript.py (contains obfuscated exec(...) code)
@@ -102,14 +102,14 @@ Output: FileDaMaHoa/enc_myscript.py (contains obfuscated exec(...) code)
 
 ---
 
-Disclaimer
+### Disclaimer
 
 This tool is intended for educational purposes and protecting your own code. Do not use it to hide malicious content or for unauthorized obfuscation.
 
 
 ---
 
-License
+### License
 
 This project is open-source and free to use under the MIT License.
 
