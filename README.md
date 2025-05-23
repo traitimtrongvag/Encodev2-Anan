@@ -82,7 +82,7 @@ Usage
 
 
 ```bash
-python encrypt.py
+python Main.py
 ```
 3. Enter the name of the file when prompted (e.g., myscript.py).
 
