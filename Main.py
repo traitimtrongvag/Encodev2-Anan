@@ -1,1 +1,98 @@
-exec(__import__('marshal').loads(__import__('base64').a85decode(b'irB&Zzz!!N?&z!:q*0!!&>cA,p-@C]IW=A,p-@C]R]?A,p-@C][cAA,p-@C]diCA,p-@C]moFA,p-@C^+&IA,p-AC^4e_=pSsO=pY30A,p-@C^O>QA,p-BC^R9G!<?X1A-?]QD$sMT!<?X6KE,0aA-R\\e=q,$QA-Zlu!!%%:!WZd5C*!?TzzzzAHHThzzzz!!$O8CFB/_EWTbXD?48TWrW2#z!<?[CC*`i[zzzzA.)rSC*io\\zzzzA.5OKWri>%z!<<0$AIE#YWrW2#z!<<0$AIY[?z!!!$"Gl`0k.1bYC!!!!o.0A3-6Z6dZEc]q?6Z6dZEaa\'$.08-\'.ObDP"`nKkAT2,\\zz!!!!)!!!!$!!!#j1]dXWQN.<lF9)@Az!!%BHA-&_4z!!"kVI0+ctC\'+G9zzzzWrN,"zI04![A,p-?Wr`8$z!<@3FzzIfk&uA-/e6z!!%EMF9_dGz!!$a>zzzz!!%BLWrW2#zI0F^#zzC(((BzzzzHj-POz!!%EOA-72`Rf[+\'SHF9FF9)@Az!!%BIA-K"8z!!"kVI0b3+C(C:EzzzzHj?\\Qz!!!$"A,p-?A,rY3z!!!$"F:eKQz!!%*SzzC(pXJzzzzF;=iVz!!$aNzzzz!!$O6Hi]]:A-\\Y-Wr`8$zWrW2#z!<@BF,60FuErgId!<?7&!<<-#N1P7r=TEXH,60FuErgId!<?7&!<<-#N(8*p=TEXH,62g(zz,QMjGI0k!-zzF;"WSz!!$aJzzzz!!%*VzzC)d3RzzzzA-dPhRfJu\\Wr`8$zWrW2#z!<?7&A,q#aIL19"A,q#aIL13!G5uji=TEXH.1&c\'!HQlsAU%crH9c%dARd,q?YO@rDfTr,?RR:=@<-F&@;I;?/o5H7A90/+?YO@rDfTr,?RR:2@<6!<1aa_)@5p,TARfXhALMj,.4H_"!I&Z4!!!!n_kS?mOi*q:D8W+kBZ%/b+EkYq+Df\'%FWbkFTPkrbBl%?\'FUeBO!$HAs_k:m\\+Ci<rDJ(SE\'EA+59]<UMBcq2)Bcq91UEF6fZXGm;.1b,8DfB9*g&uG-@:\\\'s@rH4\'Bl%A7#AmmiF(euug\')#0D/aRM#%D"^AMuC!$"5eNASu!rA7aHuGB.D>A_I<,EbTE5EWc@B!87]HBjkXmDII@%!rr<$g(&(EEc>i+?Z^3n@Vg0ug\'L2m@qBV$Bl@nC%!#oi?Z^3n@VfI_CFKVE$"dmfARBCbFD0A9Dfp/@F`^u&Bl%A7"D2@aA_IN5Dfp)1ARAqcA7aI#@X3\',@rGmhg(%t.EcYo&Ch7-a@rGmhg\'hP1@rGmhA7&hbA7aI$AU%cr?Xn"bA_I?,F`_SFFP6b,Es_mI!$EC,+<VdL+<Vg\'\'LleQAOBmD9jpS2@4t>`Bl5PBH.j*HDI[TqARB%`Ch6sqDdR(#ARf(WDe*F",6.]D$ig8-F8c.>!.Y(=!Z2)<!TX\\%O=?Pqe.!Ro<7i*1T.-0WRk\':fpB(C*,4l-@\'H<E$W!T[ddh=cu#kS<$)Bk^nR2qrFdhsiq%eKr*(`q9F-d`_XW".8m2i%n3"ooH@!ROnXcrOc*AnfU+C5<2g"oo,GO=Q]>e.!XqG1[39O%bC(Ql4B^,PM9?%OCZN!!s-oB\\*_9d1.7o#1jtTd3(<n3*jm;C!^.#ct[gP2L3a]HIW:JpEoqN,1$cBqY)*4%OBC1,Q%*?!"9V5!!*7#!SdqiN+gfQ+41Q?U^#En1XR=$co+M;0utTd1euL0:Y,kKd0NSGn,i[p;$$N77K<DgJdb!\\!0.XX49M3A&OR64_(ZKh#QqpF3C=J\\_E7uh"UDpG#=B1*_[$E5&I62_#=B1*_\\<DF(B_Pq0LQNU`"E5A(B\\.Izz!!!!+!!!!$!!!#j\'ES77QN1OsI/mdZI0"EizzC\'"A8zzzzC\'=S;zzzzHi^8Kz!!%\'TF9)@Az!!$a<zzzz!!%BIWrW2#z!<@3JzzF:/\'Kz!!$aBzzzz!!%*NzzC(L@FzzzzA-8k6z!!\'&#z!!%EKF8u:@z!!$a8zzzz!!$aIzzzz!!%BHHig>Mz!!%ELF8u:@z!!$a8zzzz!!$aKzzzz!!%BKWrW2#zE\\MS8zzC\'"A8zzzzC(gRIzzzzHi[a\\Hifc;SH>hnz!!%EMF;FoWz!!%BKHj$JOz!!!$"GlVq(zzF:/\'Kz!!$aBzzzz!!%*NzzC(L@FzzzzA-I>^RfHt\'HiTW9A-\\Y/Wr`8$zWrW2#z!<@BF.0r]&$q=rIAOBmD9jpS2@G2)YBl%?K@810$Dddc/!!!":B]6P)E$/b,Ch4`!iOYq)+Do#k+DA[!@3@TRg&tu)@paNd7VQ[M+=D:Z!!!!H+DYZ.Zu0M!FQ\'iqDBO&[\\tNg\\FE2;;B-;;0`ipS&iObpr+=DI:-S?hWg&c26g&uA\'FD0A4AU%p1FE?.AD..3kA8-(*g\')2.E-68C"98E%EYJKR!-//A!!%$S!!!#Q"DVjhDV>;/F(T-&ATB!q!!%$Q!!!!J"kj8sDK\'`??Y!kkg\'Vb@FDuAE?Y!kkg\'MA*Ch6sk@;TRr(]XO9EZ"iW!-8;D!!",a+<VeI+ohTCg&u8$Bl7rH!!!!H!!!"?`W,u=J,nL=*e6i7&KZHpoEG:(%Z`Q*2ig.Z5+!hL$ROR6$BGRO$]n!1#Tr[C!"g!2B\\+"Id2"+2#1k7dd3q0)5[DhS?dfQoJ4]A;!"fm2#E]7X%$:sc=f;YU&2Jc-g]n.@GCasnIXus0C"*A1g_L`nB9?hnClrP,3j9=&Bs:gg01"&&6AQ$)#U#cXW(YYH391>SN+gfQ+41Q?U^#En2:3O(\\-BHg\\80G_E6rTNcu=?YH[X7!Ia\\dVo`+su5m$WX!!!#Q#[^qU@;0Ud?ePR!FP6h,Cie;6@r,^bEci!!!!!?K+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<Vd6+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+=o)r/g)8Z+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdX/M/Rt$6UH6/1iG*/0H&X+<VdL+<VdL+<VdL/1iG+-[[$Z+<VdL+<VdL+<W3e/M/Lr+<VdL+<VdL+<VdL+<W3e/M8Du+:956-QjNa-QlY:+<VdL+<VdL+=o)r/34mr3Zrem+<VdL+<VdL+<W$S+>,#a>Tb.3+<VdL+<VdX/M/M7+<W]fHlrb=0-DB!+<VdL-S?Ma+<VdX?nEr_-X_<E+=A9m+<VdL+<VdL+<W<[+?L\\g+<W$a+<VdL+=pnP/M8DYHlsOZ+?CVP3ZoP++<VdL+<Ve3+<VdLHlsOS3ZoP++<Z%SHlsOS+<VdL+<W]f+?CVf+<VdL+C$$3+<Z%S+<W]f+?CVfHm!eZ$9B:PHlsOS03fVB+C$$3+?CVf+FG:S+C$%:+?CVf+<VdL+<Vdf+<Z%S+<W=B+<Ve3+<Vdf+<VeS+<Ve3+FG:m+:<K=+?CVf-QkK\'+<Vdf+<Z%S+<W]f-QjNZ4!8nn+<VdL+<VdLHlsOm+<W$S4"_Wu+?CVfHlsOS3Zodm+=B5nHlrcD+<Z%S+?M5!+C$$3+C$$:+<VdS+?M1u+<Vdg+<VdL+<VdL+FG:SHlsOn0-DBB+<Ve3+=A9S+=A9n/g)8Z+?L\\Q-QjNm+<Z%S>Tb.o+=nl_HlsOSHm!eZ>Tb.3HlsOS+<VdL+<W$S+?CVfHluZ:+C$$?-QmdZ+<Z%SHluZ:+<Z%S$@Es=HlsOZ+<W$`/LMY`+=A9S+?CWm+<W`g/ghba+<VdL+<VeS+<Z%S+=A9S-S6nt+<VdS+<Vdf+FG:S4!6.\'+:<K=+?CVf3ZoOf+<VdL+<Z%S+<Z%S-X\\MX-QjNS+<VdL+<VdLHlsOm+<W]f+<VdL+<VdLHlsOSHlseE/M/=m+<V#=+<Z%S/12P_+<VdL+<VdS+<Vdf+FG:S+<VdL+<VdL+<VdL+FG:SHlssf+<VdL+<VdL+=A9S+?CWm+<VdL+<Vd6?nErX-QjNS+<VdL+<VdL4!5XgHnHch+<VdL+<VdL+<VdL+<Y&D/LMng+<VdL+<VdL+<W`g+<Z%a-QjNS+<VdL$6UH6+<VdL+<VdL+<VdL+=A`m/LMY`+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdS/M/P%+<VdL+<VdL+:956+<][/Pi@siig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ\'Vh#+<VfdQ\'!13+<VfrSWJKnSWJBkSWK\')SWJ@En=>Yon=>Z#n=>Ymn=>Z\'n=>Z.n=>Z%n=>Z)n=>Ysn=>Z$n=>Z#+Rkq`PqjI)Hm%pLOG!%nOG*+oOHo=+OG*+oOGiV!OH/h$OH1ORSWJElSWK4"+Rkq`JFK+kN?I_]OFZhkOGtA*+<VdL+<VdLig#W5+<VdLig#tlQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Or+<VdL+<VdL+<VdL+<VdL+<VdL+<V!uB9LGf8ABRI5:HWe#\\e0uATDs&D!:s#!!"G^EY&3N!-/PL!!%$f!!!#Q#]aKrF_,W9F4q7:Df0\'-EcP`/F=q0JFEMV8F4pt2Df0\'-EcP`/FP6k>Bl.G8#B4s0FEq\\6EWZ:A!-/2B!!(^`DJ+*;ASuU\'@;]arB5_:#"onW\'E[(Pa!-0gp!!(^Y?XI\\ZD.R\']g\'2VDF*(u1g&u;%D.VE)=)r"sA_I;aEbTE5g\'2M=Ec>i+W;prp!!!">+ohTCg\'BfXDe+!,ANk-)!!!!"!!!"?M#[MUn,i[l!S[S`gAh`<!"%B[&).(%gAhW=!$p;!(>Jm1h#J5]";q5;!V/,]!C6eV-iaAYLjIJO);kW,J3o#_JOtrDQZnR9THo\\MM.NVUe-%V\\":9iVJP5J4\'+kH<-3+8[LM_TZQtGh8!!Nr+!##M_nL+A@$A]jY8FZla"UTlPn211K)KIV6!!!')))
+import base64
+import marshal
+import os
+import requests
+import concurrent.futures
+import time
+from pystyle import Colors, Colorate
+
+from rich.console import Console
+import time
+from time import sleep
+
+def encode_file_to_exec_code(file_path, output_file):
+    try:
+      
+        with open(file_path, 'r') as file:
+            source_code = file.read()
+
+      
+        bytecode = compile(source_code, file_path, 'exec')
+
+
+        marshaled_code = marshal.dumps(bytecode)
+
+
+        encoded_code = base64.a85encode(marshaled_code)
+
+
+        exec_code = f"exec(__import__('marshal').loads(__import__('base64').a85decode({encoded_code!r})))"
+        
+
+        with open(output_file, 'w') as output:
+            output.write(exec_code)
+
+        print(Colorate.Diagonal(Colors.purple_to_blue,f"Mã đã mã hóa và lưu vào file {output_file} thành công."))
+
+    except Exception as e:
+        print(Colorate.Diagonal(Colors.red_to_black,f"Lỗi khi mã hóa: {e}"))
+from rich.console import Console
+import time
+
+console = Console()
+
+def custom_print(text, color, interval):
+    for char in text:
+        console.print(char, style=color, end="")
+        time.sleep(interval)
+    print()  
+
+def main():
+    os.system('cls' if os.name == 'nt' else 'clear')
+    custom_print("""
+                                                                    
+                         ,--.                                  ,--. 
+   ,---,               ,--.'|            ,---,               ,--.'| 
+  '  .' \          ,--,:  : |           '  .' \          ,--,:  : | 
+ /  ;    '.     ,`--.'`|  ' :          /  ;    '.     ,`--.'`|  ' : 
+:  :       \    |   :  :  | |         :  :       \    |   :  :  | | 
+:  |   /\   \   :   |   \ | :         :  |   /\   \   :   |   \ | : 
+|  :  ' ;.   :  |   : '  '; |         |  :  ' ;.   :  |   : '  '; | 
+|  |  ;/  \   \ '   ' ;.    ;         |  |  ;/  \   \ '   ' ;.    ; 
+'  :  | \  \ ,' |   | | \   |         '  :  | \  \ ,' |   | | \   | 
+|  |  '  '--'   '   : |  ; .'         |  |  '  '--'   '   : |  ; .' 
+|  :  :         |   | '`--'           |  :  :         |   | '`--'   
+|  | ,'         '   : |               |  | ,'         '   : |       
+`--''           ;   |.'               `--''           ;   |.'       
+                '---'                                 '---'         
+    ╔══════════════════════════════════════════════════════╗
+    ║     𝐃𝐀𝐓𝐀 𝐄𝐍𝐂𝐑𝐘𝐏𝐓𝐈𝐎𝐍 𝐕2  | 𝐃𝐄𝐕𝐄𝐋𝐎𝐏 𝐁𝐘: 𝐀𝐍 𝐀𝐍          ║
+    ╚══════════════════════════════════════════════════════╝                      
+\n""","purple", 0.0009)
+    sleep(1)
+  
+  
+    # Thư mục chứa file cần mã hóa và thư mục lưu file mã hóa
+    # Thư mục chứa file cần mã hóa và thư mục lưu file mã hóa
+    input_dir = 'FileCanMaHoa'
+    output_dir = 'FileDaMaHoa'
+
+    # Kiểm tra xem thư mục đích có tồn tại không, nếu không thì tạo mới
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+
+  
+    file_name = input(Colorate.Diagonal(Colors.purple_to_blue,f"nhập file cần mã hóa : "))
+
+  
+    file_path = os.path.join(input_dir, file_name)
+    if os.path.isfile(file_path):
+        output_file = os.path.join(output_dir, f"enc_{file_name}")  
+        encode_file_to_exec_code(file_path, output_file)
+    else:
+        print(Colorate.Diagonal(Colors.purple_to_blue,f"File '{file_name}' không tồn tại trong thư mục '{input_dir}'."))
+
+if __name__ == '__main__':
+
+    
+    main()  # Gọi hàm main
