@@ -1,6 +1,5 @@
 ### Data Encryption V2
 
-### Developed by: An An
 
 ### Overview
 
