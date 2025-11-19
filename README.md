@@ -101,12 +101,5 @@ Output: FileDaMaHoa/enc_myscript.py (contains obfuscated exec(...) code)
 
 ---
 
-### License
-
-This project is open-source and free to use under the MIT License.
-
-
----
-
 Let me know if you'd like a Vietnamese version or want this turned into an actual GitHub repo for you.
 
