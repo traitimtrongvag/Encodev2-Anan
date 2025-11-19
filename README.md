@@ -101,13 +101,6 @@ Output: FileDaMaHoa/enc_myscript.py (contains obfuscated exec(...) code)
 
 ---
 
-### Disclaimer
-
-This tool is intended for educational purposes and protecting your own code. Do not use it to hide malicious content or for unauthorized obfuscation.
-
-
----
-
 ### License
 
 This project is open-source and free to use under the MIT License.
