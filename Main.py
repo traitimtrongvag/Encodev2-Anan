@@ -72,12 +72,11 @@ def main():
     sleep(1)
   
   
-    # Thư mục chứa file cần mã hóa và thư mục lưu file mã hóa
-    # Thư mục chứa file cần mã hóa và thư mục lưu file mã hóa
+    
     input_dir = 'FileCanMaHoa'
     output_dir = 'FileDaMaHoa'
 
-    # Kiểm tra xem thư mục đích có tồn tại không, nếu không thì tạo mới
+
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
 
