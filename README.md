@@ -55,8 +55,8 @@ Compatible with Windows, macOS, and Linux.
 ### Directory Structure
 
 .
-├── FileCanMaHoa/      # Source files to be encoded
-├── FileDaMaHoa/       # Encoded output files
+├── FilesToEncrypt/      # Source files to be encoded
+├── EncryptedFiles/       # Encoded output files
 ├── encrypt.py         # Main encryption script
 └── README.md          # Project documentation
 
@@ -74,7 +74,7 @@ pip install pystyle rich
 
 Usage
 
-1. Place the Python file you want to encode into the FileCanMaHoa directory.
+1. Place the Python file you want to encode into the FilesToEncrypt directory.
 
 
 2. Run the script:
@@ -86,7 +86,7 @@ python Main.py
 3. Enter the name of the file when prompted (e.g., myscript.py).
 
 
-4. The encoded file will be saved in the FileDaMaHoa directory with the prefix enc_.
+4. The encoded file will be saved in the EncryptedFiles directory with the prefix enc_.
 
 
 
@@ -96,7 +96,7 @@ python Main.py
 ### Example
 
 Input: myscript.py
-Output: FileDaMaHoa/enc_myscript.py (contains obfuscated exec(...) code)
+Output: EncryptedFiles/enc_myscript.py (contains obfuscated exec(...) code)
 
 
 ---
